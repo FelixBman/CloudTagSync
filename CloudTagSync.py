@@ -1,5 +1,5 @@
 """
-maintainer: czangerle@barracuda.com
+maintainer: czangerle@barracuda.com, fbueltmann@barracuda.com
 This module retrieves ip addresses based on the tags of the associated vm and creates a network object containing all ips with the same tag in a cc.
 For this script to work the followint variables need to be set in the environment:
 - AZURE_CLIENT_ID
